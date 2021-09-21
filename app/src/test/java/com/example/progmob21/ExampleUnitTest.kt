@@ -1,4 +1,4 @@
-package com.example.proteintracker
+package com.example.progmob21
 
 import org.junit.Test
 

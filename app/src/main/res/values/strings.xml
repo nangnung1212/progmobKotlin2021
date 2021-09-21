@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">ProteinTracker</string>
-    <string name="TODO">Halo Progmob</string>
-    <string name="text_progmob_main">Halo Progmob</string>
+    <string name="app_name">ProgMob21</string>
 </resources>
